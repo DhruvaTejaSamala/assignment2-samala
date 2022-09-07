@@ -19,3 +19,10 @@ Nearest Airport is **Kansas City International Airport**
 
 [Link to my bio](https://github.com/DhruvaTejaSamala/assignment2-samala/blob/main/AboutMe.md)
 
+---
+# Table
+| City | Locations | Time |
+| --- | --- | ---: |
+| California | Yosemite National Park <br> Disneyland Park | 4 hours <br> 3 hours to whole day |
+| San Fransisco | Golden Gate Bridge | 2 hours |
+| Los Angeles | Universal Studios Hollywood <br> Griffith Observatory | 4 hours <br> 3 Hours |
