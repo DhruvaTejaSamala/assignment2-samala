@@ -17,3 +17,5 @@ Nearest Airport is **Kansas City International Airport**
 * National WW1 Museum and Memorial
 * Money Museum
 
+[Link to my bio](https://github.com/DhruvaTejaSamala/assignment2-samala/blob/main/AboutMe.md)
+
