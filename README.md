@@ -32,3 +32,21 @@ Nearest Airport is **Kansas City International Airport**
 >The purpose of our lives is to be Happy -   *Dalailama* <br>
 
 >Tell me and I forget. Teach me and I remember. Involve me and I learn. *-Benjamin Franklin*
+
+---
+
+# Code snippet
+>Strip HTML from Text JavaScript
+[Stackoverflow](https://stackoverflow.com/questions/822452/strip-html-from-text-javascript)
+```
+const originalString = `
+  <div>
+    <p>Hey that's <span>somthing</span></p>
+  </div>
+`;
+
+const strippedString = originalString.replace(/(<([^>]+)>)/gi, "");
+
+console.log(strippedString);
+```
+[Code Snippet Link](https://css-tricks.com/snippets/javascript/strip-html-tags-in-javascript/)
