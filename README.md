@@ -26,3 +26,9 @@ Nearest Airport is **Kansas City International Airport**
 | California | Yosemite National Park <br> Disneyland Park | 4 hours <br> 3 hours to whole day |
 | San Fransisco | Golden Gate Bridge | 2 hours |
 | Los Angeles | Universal Studios Hollywood <br> Griffith Observatory | 4 hours <br> 3 Hours |
+
+---
+# Quotes
+>The purpose of our lives is to be Happy -   *Dalailama* <br>
+
+>Tell me and I forget. Teach me and I remember. Involve me and I learn. *-Benjamin Franklin*
